@@ -3,7 +3,6 @@
 - 👀 I’m interested in Cloud Technologies
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on skype niraj11.k
 
 <!---
 niraj11k/niraj11k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
